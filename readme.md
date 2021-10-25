@@ -28,11 +28,15 @@ The subset A of IAPS (**IAPSa**) [1] is collected from IAPS to characterize the 
 
 The Artphoto dataset [2] contains 806 artistic photos collected from an art sharing site. The photos are obtained by searching the site with the emotion categories as keywords. The ground truth of each image is determined by the user who uploads it.
 
+**下载地址：**https://www.imageemotion.org/
+
 
 
 ## Abstract
 
 **Abstract** [2] contains **228** peer-reviewed abstract paintings, including colors and textures. The  original Abstract dataset [2] consists of 280 paintings which are combinations only of color and texture. They are annotated by about 230 people, and each image is voted 14 times. For each image, the category obtaining the most number of votes is regarded as the ground truth. After filtering the images whose votes are inconclusive, 228 images are retained.
+
+**下载地址：**https://www.imageemotion.org/
 
 
 
@@ -50,9 +54,11 @@ The Artphoto dataset [2] contains 806 artistic photos collected from an art shar
 
 [[1\]](#_ftnref1) https://www.mturk.com/
 
-## Emotion6
+## Emotion 6 (ROI)
 
 **Emotion6** [5] was created as an emotion prediction benchmark and collected from Flickr to generate **1,980 images** with six emotion categories. They assumed that the influence of each pixel on the emotion-inducing area is proportional to the number of rectangles that cover that pixel and adopt AMT to collect 15 responses to the emotion-inducing site and represent the actual situation.
+
+**下载地址：**http://chenlab.ece.cornell.edu/downloads.html (Downloads Cornell EmotionROI/Emotion6 Image Database)
 
 
 
@@ -79,11 +85,11 @@ The Geneva affective picture database (GAPED) [6] contains **730 pictures** whic
 | Neutral    | 89                     |
 | **Total**  | 730                    |
 
-> **下载地址：**https://www.unige.ch/cisa/research/materials-and-online-research/research-material/
+**下载地址：**https://www.unige.ch/cisa/research/materials-and-online-research/research-material/
 
 
 
-### GAPED 
+### References
 
 ```
 [1] Mikels J A, Fredrickson B L, Larkin G R, et al. Emotional category data on images from the International Affective Picture System[J]. Behavior research methods, 2005, 37(4): 626-630.
