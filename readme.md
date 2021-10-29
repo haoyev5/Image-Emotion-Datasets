@@ -44,6 +44,8 @@ The Artphoto dataset [2] contains 806 artistic photos collected from an art shar
 
 **FI** [3] is currently the largest well-labeled dataset. The original FI data set contains 90,000 noisy images collected from Flicker and Instagram by searching eight types of affective keywords. Weakly labeled images were further labeled by 225 Amazon Mechanical Turk (AMT) workers selected through qualification tests. **23,308** images with at least three votes obtained from 5 designated AMT staff will be retained.
 
+**下载地址：**[Quanzeng You's Homepage (qzyou.github.io)](https://qzyou.github.io/)
+
 
 
 ##  Twitter I 
@@ -53,6 +55,8 @@ The Artphoto dataset [2] contains 806 artistic photos collected from an art shar
 ------
 
 [[1\]](#_ftnref1) https://www.mturk.com/
+
+
 
 ## Emotion 6 (ROI)
 
