@@ -108,5 +108,5 @@ The Geneva affective picture database (GAPED) [6] contains **730 pictures** whic
 
 All datasets can be obtained from Nankai CV lab:
 
-[Nankai University](http://www.nankai.edu.cn/)  | [CV lab](https://cv.nankai.edu.cn/) | [visual sentiment analysis](http://47.111.31.20:8081/sentiment/index.html)
+[Nankai University](http://www.nankai.edu.cn/)  | [CV lab](https://cv.nankai.edu.cn/) | [visual sentiment analysis](http://47.105.62.179:8081/sentiment/index.html)
 
